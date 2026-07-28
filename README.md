@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kmohit108/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/kmohit108/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
