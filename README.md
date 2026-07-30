@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/kmohit108/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0171-excel-sheet-column-number](https://github.com/kmohit108/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [1021-remove-outermost-parentheses](https://github.com/kmohit108/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kmohit108/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kmohit108/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/kmohit108/LeetCode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
