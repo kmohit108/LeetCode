@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kmohit108/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0455-assign-cookies](https://github.com/kmohit108/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmohit108/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0705-design-hashset](https://github.com/kmohit108/LeetCode/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/kmohit108/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kmohit108/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kmohit108/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/kmohit108/LeetCode/tree/master/0705-design-hashset) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kmohit108/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kmohit108/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/kmohit108/LeetCode/tree/master/3731-find-missing-elements) |
@@ -161,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kmohit108/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/kmohit108/LeetCode/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/kmohit108/LeetCode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/kmohit108/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
