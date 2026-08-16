@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/kmohit108/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kmohit108/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/kmohit108/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/kmohit108/LeetCode/tree/master/0705-design-hashset) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kmohit108/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kmohit108/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -233,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/kmohit108/LeetCode/tree/master/2029-stone-game-ix) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/kmohit108/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/kmohit108/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
