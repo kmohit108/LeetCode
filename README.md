@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/kmohit108/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0171-excel-sheet-column-number](https://github.com/kmohit108/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kmohit108/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kmohit108/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/kmohit108/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kmohit108/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kmohit108/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kmohit108/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kmohit108/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/kmohit108/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kmohit108/LeetCode/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kmohit108/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/kmohit108/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/kmohit108/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kmohit108/LeetCode/tree/master/2029-stone-game-ix) |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/kmohit108/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kmohit108/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kmohit108/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
