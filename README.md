@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kmohit108/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kmohit108/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kmohit108/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/kmohit108/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmohit108/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/kmohit108/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kmohit108/LeetCode/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kmohit108/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kmohit108/LeetCode/tree/master/0118-pascals-triangle) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kmohit108/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kmohit108/LeetCode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/kmohit108/LeetCode/tree/master/0463-island-perimeter) |
 ## Sliding Window
