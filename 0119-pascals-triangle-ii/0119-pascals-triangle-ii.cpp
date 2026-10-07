@@ -1,16 +1,13 @@
 class Solution {
 public:
     vector<int> getRow(int rowIndex) {
-      vector<int> row(1,1);
-      for(int i=0; i<rowIndex; i++){
-        vector<int> newRow;
-        newRow.push_back(1);
-        for(int j=1; j<row.size(); j++){
-            newRow.push_back(row[j-1]+row[j]);
+     vector<int> ans(rowIndex+1, 1);
+
+     for(int i=1; i<rowIndex; i++){
+        for(int j=i; j>0; j--){
+            ans[j]+=ans[j-1];
         }
-        newRow.push_back(1);
-        row=newRow;
-      }  
-      return row;
+     }
+     return ans;
     }
 };
