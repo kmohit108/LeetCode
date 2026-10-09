@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kmohit108/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/kmohit108/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/kmohit108/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kmohit108/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kmohit108/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kmohit108/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kmohit108/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kmohit108/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/kmohit108/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kmohit108/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kmohit108/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kmohit108/LeetCode/tree/master/0118-pascals-triangle) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kmohit108/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kmohit108/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/kmohit108/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/kmohit108/LeetCode/tree/master/0463-island-perimeter) |
 ## Sliding Window
 |  |
