@@ -1,16 +1,24 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-      int n=nums.size();
-      map<int,int> mpp;
-      for(int i=0; i<n; i++){
-        mpp[nums[i]]++;
-      }
-      for(auto it: mpp){
-        if(it.second==1){
-            return it.first;
+        int low = 0;
+        int high = nums.size() - 1;
+
+        while(low < high) {
+            int mid = low + (high - low) / 2;
+
+            if(mid % 2 == 1) {
+                mid--;
+            }
+
+            if(nums[mid] == nums[mid + 1]) {
+                low = mid + 2;
+            }
+            else {
+                high = mid;
+            }
         }
-    }
-    return -1;
+
+        return nums[low];
     }
 };
