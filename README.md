@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kmohit108/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kmohit108/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kmohit108/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0229-majority-element-ii](https://github.com/kmohit108/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kmohit108/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kmohit108/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/kmohit108/LeetCode/tree/master/0463-island-perimeter) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kmohit108/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/kmohit108/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kmohit108/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kmohit108/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kmohit108/LeetCode/tree/master/0561-array-partition) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kmohit108/LeetCode/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/kmohit108/LeetCode/tree/master/0561-array-partition) |
 | [2029-stone-game-ix](https://github.com/kmohit108/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kmohit108/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kmohit108/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kmohit108/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/kmohit108/LeetCode/tree/master/0705-design-hashset) |
 | [1386-cinema-seat-allocation](https://github.com/kmohit108/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kmohit108/LeetCode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kmohit108/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
