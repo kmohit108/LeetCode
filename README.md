@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kmohit108/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kmohit108/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kmohit108/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/kmohit108/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/kmohit108/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kmohit108/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kmohit108/LeetCode/tree/master/0455-assign-cookies) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kmohit108/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kmohit108/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kmohit108/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/kmohit108/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/kmohit108/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kmohit108/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kmohit108/LeetCode/tree/master/1406-stone-game-iii) |
