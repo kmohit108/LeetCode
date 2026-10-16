@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/kmohit108/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmohit108/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/kmohit108/LeetCode/tree/master/0705-design-hashset) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/kmohit108/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/kmohit108/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kmohit108/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kmohit108/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kmohit108/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kmohit108/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmohit108/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/kmohit108/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kmohit108/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kmohit108/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kmohit108/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
